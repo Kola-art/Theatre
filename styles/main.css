@@ -702,7 +702,7 @@ header .main-info .slider {
 }
 
 .opinion {
-  background-image: url("../../img/bg4.svg");
+  background-image: url("../img/bg4.svg");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
@@ -773,7 +773,7 @@ header .main-info .slider {
     background-color: #232323;
   }
   .opinion__content {
-    background-image: url("../../img/newbg.svg");
+    background-image: url("../img/newbg.svg");
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 1140px;
